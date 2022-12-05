@@ -1,4 +1,4 @@
 def call(){
-    println("hello")
+    println("hello,pzy 嘿嘿嘿")
 
 }
